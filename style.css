@@ -1,0 +1,32 @@
+ * {
+ 	margin: 0;
+ }
+
+ #gradient {
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	background: linear-gradient(to right, red, yellow);
+ }
+
+ .outerborder {
+ 	height: 94vh;
+ 	border: 3vh solid black;
+ }
+
+ .innerborder {
+ 	height: 90vh;
+ 	border: 2vh solid white;	
+ }
+
+ .headings, h3 {
+ 	margin: 10px;
+ 	font: 600 4.5em 'bangers', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+ }
+ h3 {
+ 	font-size: 1.5em;
+ }
